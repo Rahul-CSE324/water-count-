@@ -1,0 +1,21 @@
+{
+  "name": "Water Count",
+  "short_name": "WaterCount",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f9fc",
+  "theme_color": "#1976d2",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "water-count-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "water-count-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
