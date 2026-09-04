@@ -137,7 +137,7 @@ The application follows a simple frontend architecture:
 
 👉 View the project here:
 
-https://rahul-cse324.github.io/Team-Protfolio/
+https://rahul-cse324.github.io/water-count-/
 
 ---
 
