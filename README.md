@@ -132,6 +132,13 @@ The application follows a simple frontend architecture:
 💾 Browser Storage / Web APIs
 ```
 
+
+## ## 📸 Demo Preview
+
+👉 View the project here:
+
+https://rahul-cse324.github.io/Team-Protfolio/
+
 ---
 
 ## 📱 Progressive Web App
