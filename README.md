@@ -227,13 +227,7 @@ The project can be enhanced with:
 🔐 Cyber Security Enthusiast
 🚀 Passionate about building practical applications
 
----
 
-## ⭐ Support
-
-If you find **Water Count** useful or interesting, consider giving the repository a ⭐ **Star** on GitHub.
-
-Your support is greatly appreciated! ❤️
 
 ---
 
